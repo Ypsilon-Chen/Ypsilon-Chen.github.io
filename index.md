@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 我的Blog
+title: 
 ---
 ## {{ page.title }}
 最新文章
